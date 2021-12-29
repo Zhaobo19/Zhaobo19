@@ -16,7 +16,7 @@
 
 
 
-A fanatic AI Trainer from China, currently study for a master's degree research at Jilin University.
+A fanatic AI Trainer from China, currently study for a master's degree at Jilin University in Changchun.
 
 - 💬 Read more about my [Blog](https://blog.csdn.net/weixin_49272172?spm=1001.2101.3001.5343)
 
