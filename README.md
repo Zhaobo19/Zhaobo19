@@ -4,6 +4,7 @@
   <a href="https://github.com/Zhaobo19?tab=repositories"> <img src="https://img.shields.io/github/stars/Zhaobo19?label=Stars&style=plastic" height="20px" alt="github" /> </a>
   <a href="mailto:hunagzb19@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
   <a href="https://blog.csdn.net/weixin_49272172?spm=1001.2101.3001.5343"><img src="https://img.shields.io/badge/C-CSDN-orange.svg?style=red&logo=CSDN&logoColor=white" height="20px" alt="CSDN"></a>
+  <a href="https://leetcode-cn.com/u/jensen-huang/"><img src="https://img.shields.io/badge/LeetCode-yellowgreen.svg?style=red&logo=LeetCode&logoColor=white" height="20px" alt="LeetCode"></a>
   <a href="https://www.zhihu.com/people/huang-bo-bo-8-25"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="20px" alt="知乎"></a>
   <a href=""> <img src="https://img.shields.io/badge/Major-ME&CV-critical?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href=""> <img src="https://img.shields.io/badge/QQ-3207820044-brightgreen?style=plastic&logo=QQ&logoColor=ffffff" height="20px"> </a>
@@ -16,7 +17,7 @@
 
 
 
-I am a fanatic AI Trainer, currently study for a master's degree at Jilin University in Changchun. I study mechanical engineering,computer vision and machine learning. It is definitely wecome to visit my personal Github and share any knowledge to me.
+I am a fanatic AI Trainer, currently study for a master's degree at Jilin University in Changchun. I study mechanical engineering,computer vision, algorithm and machine learning. It is definitely wecome to visit my personal Github and share any knowledge to me.
 
 - 💬 Read more about my [Blog](https://blog.csdn.net/weixin_49272172?spm=1001.2101.3001.5343)
 
