@@ -16,7 +16,7 @@
 
 
 
-I am a fanatic AI Trainer, currently study for a master's degree at Jilin University in Changchun. I study mechanical engineering,computer vision and machine learning. It is definitely wecome to visit my personal Github and share anything knowlede to me.
+I am a fanatic AI Trainer, currently study for a master's degree at Jilin University in Changchun. I study mechanical engineering,computer vision and machine learning. It is definitely wecome to visit my personal Github and share any knowledge to me.
 
 - 💬 Read more about my [Blog](https://blog.csdn.net/weixin_49272172?spm=1001.2101.3001.5343)
 
